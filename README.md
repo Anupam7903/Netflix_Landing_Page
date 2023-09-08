@@ -2,11 +2,10 @@
 I have created a landing page of Netflix using HTML,CSS and JavaScript . It is very much similar to official Netflix landing page. In this project  I have leveraged my frontend skills.
 
 
-# Netflix_Home_Page_Using_HTML_And_CSS
-
-This repository contains the code for building a Netflix-inspired home page using HTML and CSS. The project aims to recreate the visual design and layout of the Netflix home page, providing a starting point for creating similar interfaces or learning web development techniques.
 
 ## Preview
+![preview](https://github.com/Anupam7903/Netflix_Landing_Page/assets/81768188/8ced4230-b5fb-4aec-a008-c13461500ce8)
+
 
 
 ## Features
@@ -16,21 +15,6 @@ This repository contains the code for building a Netflix-inspired home page usin
 - Dynamic content: Placeholder content is used to mimic Netflix's movie and TV show recommendations.
 - CSS styling: The stylesheets provide a sleek and modern look, resembling the Netflix branding.
 
-## Getting Started
-
-To get started with this project, follow these steps:
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/alok-2002/Netflix_Home_Page_Using_HTML_And_CSS.git
-```
-
-2. Open the project in your preferred code editor.
-
-3. Launch the `index.html` file in a web browser to view the Netflix home page.
-
-4. Feel free to modify the code and customize the page according to your preferences. You can update the content, change the colors, or add new features.
 
 ## Contributing
 
@@ -49,8 +33,8 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use the 
 
 If you have any questions, suggestions, or feedback, you can reach out to the project maintainer:
 
-- Your Name : [Anupam](https://www.linkedin.com/in/anupam-066181233?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8NWe2ch1RNigQF%2F%2F%2FVBdlA%3D%3D)
-- Email: (anupamsinghmunger@gmail.com)
+- Your Name : [Anupam](https://www.linkedin.com/in/anupam-066181233/)
+- Email:[anupamsinghmunger@gmail.com](mailto:anupamsinghmunger@gmail.com)
 
 ---
 
